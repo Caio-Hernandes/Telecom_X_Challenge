@@ -17,6 +17,9 @@ PaymentMethod: método de pagamento.
 SeniorCitizen: indica se o cliente é idoso (1) ou não (0).
 InternetService: tipo de serviço de internet (fibra, DSL, etc.).
 
+### 📈 Distribuição da Mensalidade por Churn
+![Distribuição da Mensalidade por Churn](./grafico_exemplo)
+
 A partir da análise, foram identificados os seguintes pontos:
 
 Clientes mensais: apresentam maior taxa de churn (42,7%).
